@@ -1,0 +1,19 @@
+{
+  "name": "noServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.0.0-alpha.64"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
